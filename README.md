@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1f,40:0a1f3d,100:0e6ba8&height=240&section=header&text=Sarathkumar&fontSize=62&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack+Developer+%7C+QA+Engineer+%7C+AI+%26+ML+Enthusiast+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0&descAlignY=65&descSize=16&descColor=90caf9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,100:2d1b69&height=240&section=header&text=Hi,+I'm+Sarathkumar&fontSize=52&fontColor=a3e635&animation=fadeIn&fontAlignY=42&desc=Innovator+in+Code+and+Creativity+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0&descAlignY=65&descSize=17&descColor=818cf8" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+Django;QA+Engineer+%7C+Selenium+%2B+Postman+%2B+JIRA;Machine+Learning+%7C+Python+%2B+TensorFlow+%2B+PyTorch;Building+Scalable+Apps+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Karate+Champion+%26+Clean+Code+Writer+%F0%9F%A5%8B%F0%9F%92%BB;Open+to+Collaborate+%7C+Let%27s+Build+Together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=900&color=A3E635&center=true&vCenter=true&width=850&lines=Software+Engineer+Intern+%7C+Fullstack+Developer;React+%2B+Node.js+%2B+Django+%2B+Python;Passionate+about+Web+%26+Mobile+App+Development;3D+SketchUp+Designer+%7C+Martial+Artist+%F0%9F%A5%8B;Building+Scalable+Apps+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Let%27s+Connect+%26+Build+Something+Extraordinary!)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,43 +11,43 @@
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ ABOUT ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <table width="100%" border="0" cellspacing="3" cellpadding="0">
 <tr>
-<td bgcolor="#0b1929" width="53%" valign="top" cellpadding="28">
+<td bgcolor="#130a2a" width="54%" valign="top" cellpadding="28">
 
 &nbsp;
 
-### 👤 &nbsp;Who Am I?
+### 👋 &nbsp;Who Am I?
 
 🔭 &nbsp;**Fullstack Developer** @ Tefrix Solutions *(Feb 2025–Present)*
-
-🧪 &nbsp;**QA Engineer** — Manual & Automated Testing
 
 🎓 &nbsp;**BSc(Hons) CS & Technology** — Uva Wellassa University *(2022–2026)*
 
 🌍 &nbsp;Based in **Colombo, Sri Lanka**
 
-🛠️ &nbsp;Crafting **full-stack apps**, **ML models** & **test automation**
+🛠️ &nbsp;Skilled in **web & mobile app development** and **3D SketchUp design**
 
-🥋 &nbsp;**Karate Champion** — 🥇 1st Place Inter Faculty Sports Meet
+⚡ &nbsp;Building **user-friendly products** with intuitive interfaces
 
-💡 &nbsp;**Build · Break · Test · Learn · Repeat**
+🥋 &nbsp;**Martial Artist** — 🥇 Karate Champion, Bronze in Wushu Sanda
+
+💡 &nbsp;**Let's connect and build something extraordinary!**
 
 🌐 &nbsp;[sarathsk.vercel.app](https://sarathsk.vercel.app/)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathkumarpro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230a1f3d.svg?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://sarathsk.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sarathsk.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksarathkumar.pro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarathkumargit)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sarathkumargit&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sarathkumargit&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 &nbsp;
 
 </td>
-<td bgcolor="#0b1929" width="47%" align="center" valign="middle" cellpadding="12">
+<td bgcolor="#130a2a" width="46%" align="center" valign="middle" cellpadding="12">
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="340" alt="Dev Animation"/>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="320" alt="Dev Animation"/>
 
 </td>
 </tr>
@@ -57,7 +57,7 @@
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" align="center" cellpadding="28">
+<tr><td bgcolor="#130a2a" align="center" cellpadding="28">
 
 ## ⚙️ &nbsp;Tech Stack
 
@@ -65,7 +65,7 @@
 
 **💻 &nbsp;Languages**
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,html,css&theme=dark&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,php&theme=dark&perline=7)](https://skillicons.dev)
 
 <br/>
 
@@ -81,19 +81,19 @@
 
 <br/>
 
-**🧪 &nbsp;QA & Testing**
+**⚙️ &nbsp;Tools & DevOps**
 
-[![Selenium](https://img.shields.io/badge/Selenium-0b1929?style=for-the-badge&logo=selenium&logoColor=43B02A)](https://selenium.dev)
-[![Postman](https://img.shields.io/badge/Postman-0b1929?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://postman.com)
-[![JIRA](https://img.shields.io/badge/JIRA-0b1929?style=for-the-badge&logo=jira&logoColor=0052CC)](https://atlassian.com/jira)
-[![TestNG](https://img.shields.io/badge/TestNG-0b1929?style=for-the-badge&logo=testng&logoColor=FF6C37)](https://testng.org)
-[![JUnit](https://img.shields.io/badge/JUnit-0b1929?style=for-the-badge&logo=junit5&logoColor=25A162)](https://junit.org)
+[![Skills](https://skillicons.dev/icons?i=docker,git,github,figma,pytorch,vscode,sketchup&theme=dark&perline=7)](https://skillicons.dev)
 
 <br/>
 
-**⚙️ &nbsp;DevOps & Tools**
+**✨ &nbsp;Also Skilled In**
 
-[![Skills](https://skillicons.dev/icons?i=docker,git,github,figma,pytorch,vscode&theme=dark&perline=7)](https://skillicons.dev)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-130a2a?style=for-the-badge&logo=openai&logoColor=a3e635)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-130a2a?style=for-the-badge&logo=github&logoColor=a3e635)
+![React Native](https://img.shields.io/badge/React_Native-130a2a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-130a2a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-130a2a?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
 <br/>
 
@@ -104,23 +104,23 @@
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" align="center" cellpadding="24">
+<tr><td bgcolor="#130a2a" align="center" cellpadding="24">
 
 ## 📊 &nbsp;GitHub Stats
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarathkumargit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1929&title_color=00d4ff&icon_color=0e6ba8&text_color=90caf9&border_radius=12" height="172"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sarathkumargit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=130a2a&title_color=a3e635&icon_color=a855f7&text_color=c4b5fd&border_radius=12" height="172"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathkumargit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1929&title_color=00d4ff&text_color=90caf9&langs_count=8&border_radius=12" height="172"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathkumargit&layout=compact&theme=tokyonight&hide_border=true&bg_color=130a2a&title_color=a3e635&text_color=c4b5fd&langs_count=8&border_radius=12" height="172"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sarathkumargit&theme=tokyonight-duo&hide_border=true&background=0b1929&ring=00D4FF&fire=0e6ba8&currStreakLabel=00D4FF&sideLabels=90caf9&dates=4a6fa5&currStreakNum=ffffff&sideNums=ffffff&stroke=0b1929&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=sarathkumargit&theme=tokyonight-duo&hide_border=true&background=130a2a&ring=a3e635&fire=a855f7&currStreakLabel=a3e635&sideLabels=c4b5fd&dates=6d4a9e&currStreakNum=ffffff&sideNums=ffffff&stroke=130a2a&border_radius=12"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarathkumargit&theme=tokyo-night&bg_color=0b1929&color=00d4ff&line=0e6ba8&point=00d4ff&area=true&hide_border=true" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarathkumargit&theme=tokyo-night&bg_color=130a2a&color=a3e635&line=a855f7&point=a3e635&area=true&hide_border=true" width="97%"/>
 
 <br/>
 
@@ -131,7 +131,7 @@
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ TROPHIES ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" align="center" cellpadding="18">
+<tr><td bgcolor="#130a2a" align="center" cellpadding="18">
 
 ## 🏆 &nbsp;Trophies
 
@@ -148,7 +148,7 @@
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ EXPERIENCE ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" cellpadding="26">
+<tr><td bgcolor="#130a2a" cellpadding="26">
 
 ## 💼 &nbsp;Work Experience
 
@@ -159,25 +159,12 @@
 
 <br/>
 
-> ![React](https://img.shields.io/badge/React-0b1929?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-0b1929?style=flat-square&logo=typescript&logoColor=007ACC) ![Node.js](https://img.shields.io/badge/Node.js-0b1929?style=flat-square&logo=nodedotjs&logoColor=43853D) ![MongoDB](https://img.shields.io/badge/MongoDB-0b1929?style=flat-square&logo=mongodb&logoColor=4EA94B) ![Tailwind](https://img.shields.io/badge/Tailwind-0b1929?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+> ![React](https://img.shields.io/badge/React-130a2a?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-130a2a?style=flat-square&logo=typescript&logoColor=007ACC) ![Tailwind](https://img.shields.io/badge/Tailwind-130a2a?style=flat-square&logo=tailwind-css&logoColor=38B2AC) ![Node.js](https://img.shields.io/badge/Node.js-130a2a?style=flat-square&logo=nodedotjs&logoColor=43853D) ![MongoDB](https://img.shields.io/badge/MongoDB-130a2a?style=flat-square&logo=mongodb&logoColor=4EA94B)
 
 - 🏗️ &nbsp;Built and deployed full-stack apps — React, TypeScript, Tailwind, Node.js, Express, MongoDB
-- ⚡ &nbsp;Optimised application performance and implemented data-driven features end-to-end
-- 🔒 &nbsp;Led design, prototyping & deployment ensuring scalability, security, and user-friendly experience
-
-</details>
-
-<details>
-<summary>🧪 &nbsp;<strong>QA Engineer (Applied)</strong> — Projects & Research &nbsp;|&nbsp; 2024 – Present</summary>
-
-<br/>
-
-> ![Selenium](https://img.shields.io/badge/Selenium-0b1929?style=flat-square&logo=selenium&logoColor=43B02A) ![Postman](https://img.shields.io/badge/Postman-0b1929?style=flat-square&logo=postman&logoColor=FF6C37) ![JIRA](https://img.shields.io/badge/JIRA-0b1929?style=flat-square&logo=jira&logoColor=0052CC)
-
-- 🔍 &nbsp;Specialised in **manual & automated testing**, defect tracking, and performance validation
-- 📋 &nbsp;Translated requirements into detailed test cases and identified root causes of defects
-- 🤝 &nbsp;Collaborated with dev teams to ensure product reliability in **Agile environments**
-- 🛠️ &nbsp;Tools: Selenium · Postman · JIRA · API testing · regression testing
+- 📊 &nbsp;Implemented data-driven features; actively monitored & improved application performance
+- 🔒 &nbsp;Led early-stage design, prototyping & deployment — scalability, security, UX-first approach
+- 🧠 &nbsp;Strengthened skills in software architecture, database design & API development
 
 </details>
 
@@ -191,12 +178,13 @@
 </details>
 
 <details>
-<summary>📢 &nbsp;<strong>Marketing Coordinator</strong> — The Business School Kandy &nbsp;|&nbsp; Jan 2019 – Jan 2025</summary>
+<summary>📢 &nbsp;<strong>Marketing Coordinator</strong> — The Business School Kandy &nbsp;|&nbsp; Jan 2019 – Jan 2025 &nbsp;|&nbsp; Kandy</summary>
 
 <br/>
 
-- 👨‍🏫 &nbsp;Mentored students in technical skills and entrepreneurship using emerging technologies
+- 👨‍🏫 &nbsp;Mentored students in tech skills and entrepreneurship via emerging technologies
 - 📈 &nbsp;Guided professionals in personal branding and effective communication strategies
+- 🎯 &nbsp;Fostered creativity, problem-solving & self-sufficiency through project-based learning
 
 </details>
 
@@ -209,7 +197,7 @@
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ PROJECTS ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" cellpadding="26">
+<tr><td bgcolor="#130a2a" cellpadding="26">
 
 ## 🚀 &nbsp;Featured Projects
 
@@ -220,11 +208,11 @@
 | Project | Stack | Description |
 |---|---|---|
 | [🎓 Higher Education Pathfinder](https://github.com/sarathkumargit/IEEESLInspire) | React · Node.js | Guides Sri Lankan students through higher education paths |
-| [🏠 Housing Price Prediction](https://github.com/sarathkumargit/First-ML-project-house-predict) | Python · Scikit-learn · Pandas | ML model with Seaborn & Matplotlib visualisation |
+| [🏠 Housing Price Prediction](https://github.com/sarathkumargit/First-ML-project-house-predict) | Python · Scikit-learn · Pandas · Seaborn | ML model with full data visualisation pipeline |
 | [✈️ TripBuddy — Smart Planner](https://github.com/sarathkumargit/TripBuddy) | React · Django · DRF · MySQL | AI-assisted smart travel itinerary planner |
 | [🎓 Wellassa UniHub](https://github.com/sarathkumargit/Wellassa-Uni-Hub) | PHP · MySQL · Bootstrap | University hub portal for students & faculty |
-| [🏥 Hospital Appointment System](https://github.com/sarathkumargit) | JSP · Servlets · MySQL | End-to-end hospital booking & management system |
-| [🔍 Exam Cheating Detection](https://github.com/sarathkumargit) | Python · TensorFlow · Moodle LMS | Real-time ML plugin for online exam integrity |
+| [🏥 Hospital Appointment System](https://github.com/sarathkumargit) | JSP · Servlets · MySQL · Bootstrap | End-to-end hospital booking & management |
+| [🔍 Exam Cheating Detection](https://github.com/sarathkumargit) | Python · TensorFlow · Moodle LMS | Real-time ML suspicious activity detection plugin |
 
 </div>
 
@@ -237,7 +225,7 @@
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ ACHIEVEMENTS ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" cellpadding="26">
+<tr><td bgcolor="#130a2a" cellpadding="26">
 
 ## 🏅 &nbsp;Achievements
 
@@ -265,7 +253,7 @@
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ EDUCATION ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" cellpadding="26">
+<tr><td bgcolor="#130a2a" cellpadding="26">
 
 ## 🎓 &nbsp;Education & Currently Learning
 
@@ -285,7 +273,6 @@
 🧱 Currently Exploring
    ├── 📱 Mobile Dev       →  React Native
    ├── 🐳 DevOps           →  Docker, CI/CD Pipelines
-   ├── 🧪 Test Automation  →  Selenium, Cypress, Playwright
    ├── 🤖 ML / AI          →  PyTorch, TensorFlow, Scikit-learn
    └── 🧠 AI Tools         →  Prompt Engineering, Vibe Coding
 ```
@@ -299,17 +286,17 @@
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ LANGUAGES ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" align="center" cellpadding="20">
+<tr><td bgcolor="#130a2a" align="center" cellpadding="20">
 
 ## 🌐 &nbsp;Languages
 
 <br/>
 
-![English](https://img.shields.io/badge/English-Proficient-00d4ff?style=for-the-badge&labelColor=0b1929)
+![English](https://img.shields.io/badge/English-Proficient-a3e635?style=for-the-badge&labelColor=130a2a)
 &nbsp;
-![Sinhala](https://img.shields.io/badge/Sinhala-Proficient-00d4ff?style=for-the-badge&labelColor=0b1929)
+![Sinhala](https://img.shields.io/badge/Sinhala-Proficient-a3e635?style=for-the-badge&labelColor=130a2a)
 &nbsp;
-![Tamil](https://img.shields.io/badge/Tamil-Proficient-00d4ff?style=for-the-badge&labelColor=0b1929)
+![Tamil](https://img.shields.io/badge/Tamil-Proficient-a3e635?style=for-the-badge&labelColor=130a2a)
 
 <br/>
 
@@ -318,11 +305,10 @@
 
 <br/>
 
-<!--━━━━━━━━━━━━━━━━━━━━━━━━ QUOTE ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="62%"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e6ba8,50:0a1f3d,100:050d1f&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0221&height=140&section=footer&animation=fadeIn&desc=Let%27s+connect+and+build+something+extraordinary!&descColor=a3e635&descSize=14&descAlignY=70" width="100%"/>
