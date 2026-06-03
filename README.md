@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1f,40:0a1f3d,100:0e6ba8&height=240&section=header&text=Sarathkumar&fontSize=62&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0&descAlignY=65&descSize=17&descColor=90caf9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1f,40:0a1f3d,100:0e6ba8&height=240&section=header&text=Sarathkumar&fontSize=62&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack+Developer+%7C+QA+Engineer+%7C+AI+%26+ML+Enthusiast+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0&descAlignY=65&descSize=16&descColor=90caf9" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+React+%2B+Node.js;Machine+Learning+%7C+Python+%2B+Django;Building+Scalable+Apps+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Karate+Champion+%26+Clean+Code+Writer+%F0%9F%A5%8B%F0%9F%92%BB;Open+to+Collaborate+%7C+Let%27s+Build+Together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+Django;QA+Engineer+%7C+Selenium+%2B+Postman+%2B+JIRA;Machine+Learning+%7C+Python+%2B+TensorFlow+%2B+PyTorch;Building+Scalable+Apps+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Karate+Champion+%26+Clean+Code+Writer+%F0%9F%A5%8B%F0%9F%92%BB;Open+to+Collaborate+%7C+Let%27s+Build+Together!)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,21 +11,25 @@
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ ABOUT ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <table width="100%" border="0" cellspacing="3" cellpadding="0">
 <tr>
-<td bgcolor="#0b1929" width="52%" valign="top" style="padding:28px; border-radius:16px">
+<td bgcolor="#0b1929" width="53%" valign="top" cellpadding="28">
+
+&nbsp;
 
 ### 👤 &nbsp;Who Am I?
 
 🔭 &nbsp;**Fullstack Developer** @ Tefrix Solutions *(Feb 2025–Present)*
 
+🧪 &nbsp;**QA Engineer** — Manual & Automated Testing
+
 🎓 &nbsp;**BSc(Hons) CS & Technology** — Uva Wellassa University *(2022–2026)*
 
 🌍 &nbsp;Based in **Colombo, Sri Lanka**
 
-🛠️ &nbsp;Love crafting **full-stack web apps** & **ML models**
+🛠️ &nbsp;Crafting **full-stack apps**, **ML models** & **test automation**
 
 🥋 &nbsp;**Karate Champion** — 🥇 1st Place Inter Faculty Sports Meet
 
-💡 &nbsp;Motto: **Build · Break · Learn · Repeat**
+💡 &nbsp;**Build · Break · Test · Learn · Repeat**
 
 🌐 &nbsp;[sarathsk.vercel.app](https://sarathsk.vercel.app/)
 
@@ -38,8 +42,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarathkumargit&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
+&nbsp;
+
 </td>
-<td bgcolor="#0b1929" width="48%" align="center" valign="middle">
+<td bgcolor="#0b1929" width="47%" align="center" valign="middle" cellpadding="12">
 
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="340" alt="Dev Animation"/>
 
@@ -57,21 +63,37 @@
 
 <br/>
 
-**Languages**
+**💻 &nbsp;Languages**
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,html,css&theme=dark&perline=7)](https://skillicons.dev)
 
 <br/>
 
-**Frameworks & Libraries**
+**🚀 &nbsp;Frameworks & Libraries**
 
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,bootstrap&theme=dark&perline=7)](https://skillicons.dev)
 
 <br/>
 
-**Databases &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Tools**
+**🗄️ &nbsp;Databases**
 
-[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,docker,git,github,figma,pytorch,vscode&theme=dark&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark&perline=7)](https://skillicons.dev)
+
+<br/>
+
+**🧪 &nbsp;QA & Testing**
+
+[![Selenium](https://img.shields.io/badge/Selenium-0b1929?style=for-the-badge&logo=selenium&logoColor=43B02A)](https://selenium.dev)
+[![Postman](https://img.shields.io/badge/Postman-0b1929?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://postman.com)
+[![JIRA](https://img.shields.io/badge/JIRA-0b1929?style=for-the-badge&logo=jira&logoColor=0052CC)](https://atlassian.com/jira)
+[![TestNG](https://img.shields.io/badge/TestNG-0b1929?style=for-the-badge&logo=testng&logoColor=FF6C37)](https://testng.org)
+[![JUnit](https://img.shields.io/badge/JUnit-0b1929?style=for-the-badge&logo=junit5&logoColor=25A162)](https://junit.org)
+
+<br/>
+
+**⚙️ &nbsp;DevOps & Tools**
+
+[![Skills](https://skillicons.dev/icons?i=docker,git,github,figma,pytorch,vscode&theme=dark&perline=7)](https://skillicons.dev)
 
 <br/>
 
@@ -139,9 +161,23 @@
 
 > ![React](https://img.shields.io/badge/React-0b1929?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-0b1929?style=flat-square&logo=typescript&logoColor=007ACC) ![Node.js](https://img.shields.io/badge/Node.js-0b1929?style=flat-square&logo=nodedotjs&logoColor=43853D) ![MongoDB](https://img.shields.io/badge/MongoDB-0b1929?style=flat-square&logo=mongodb&logoColor=4EA94B) ![Tailwind](https://img.shields.io/badge/Tailwind-0b1929?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
 
-- 🏗️ &nbsp;Built and deployed full-stack applications — React, TypeScript, Tailwind, Node.js, MongoDB
-- ⚡ &nbsp;Optimised performance and delivered data-driven features end-to-end
-- 🔒 &nbsp;Led design, prototyping & deployment ensuring scalability and security
+- 🏗️ &nbsp;Built and deployed full-stack apps — React, TypeScript, Tailwind, Node.js, Express, MongoDB
+- ⚡ &nbsp;Optimised application performance and implemented data-driven features end-to-end
+- 🔒 &nbsp;Led design, prototyping & deployment ensuring scalability, security, and user-friendly experience
+
+</details>
+
+<details>
+<summary>🧪 &nbsp;<strong>QA Engineer (Applied)</strong> — Projects & Research &nbsp;|&nbsp; 2024 – Present</summary>
+
+<br/>
+
+> ![Selenium](https://img.shields.io/badge/Selenium-0b1929?style=flat-square&logo=selenium&logoColor=43B02A) ![Postman](https://img.shields.io/badge/Postman-0b1929?style=flat-square&logo=postman&logoColor=FF6C37) ![JIRA](https://img.shields.io/badge/JIRA-0b1929?style=flat-square&logo=jira&logoColor=0052CC)
+
+- 🔍 &nbsp;Specialised in **manual & automated testing**, defect tracking, and performance validation
+- 📋 &nbsp;Translated requirements into detailed test cases and identified root causes of defects
+- 🤝 &nbsp;Collaborated with dev teams to ensure product reliability in **Agile environments**
+- 🛠️ &nbsp;Tools: Selenium · Postman · JIRA · API testing · regression testing
 
 </details>
 
@@ -214,6 +250,7 @@
 | 🥇 | Inter Faculty Karate Championship | **1st Place** — Inter Faculty Sports Meet |
 | 🥉 | Central Province Wushu Sanda | **Bronze Medal** — representing UCC |
 | 🎽 | Sri Lanka University Games (SLUG) | Represented UWU as Karate athlete nationally |
+| 🥋 | Inter University Sri Lanka | Selected for UWU Karate Team |
 | 💻 | UvaXtreme 1.0 Programming Competition | Competitive coding event — June 2024 |
 | 🌍 | AIESEC Volunteer | Youth leadership & cultural exchange — 2023 |
 
@@ -246,11 +283,33 @@
 
 ```
 🧱 Currently Exploring
-   ├── 📱 Mobile Dev    →  React Native
-   ├── 🐳 DevOps        →  Docker, CI/CD Pipelines
-   ├── 🤖 ML / AI       →  PyTorch, TensorFlow, Scikit-learn
-   └── 🧠 AI Tools      →  Prompt Engineering, Vibe Coding
+   ├── 📱 Mobile Dev       →  React Native
+   ├── 🐳 DevOps           →  Docker, CI/CD Pipelines
+   ├── 🧪 Test Automation  →  Selenium, Cypress, Playwright
+   ├── 🤖 ML / AI          →  PyTorch, TensorFlow, Scikit-learn
+   └── 🧠 AI Tools         →  Prompt Engineering, Vibe Coding
 ```
+
+<br/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<!--━━━━━━━━━━━━━━━━━━━━━━━━ LANGUAGES ━━━━━━━━━━━━━━━━━━━━━━━━-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td bgcolor="#0b1929" align="center" cellpadding="20">
+
+## 🌐 &nbsp;Languages
+
+<br/>
+
+![English](https://img.shields.io/badge/English-Proficient-00d4ff?style=for-the-badge&labelColor=0b1929)
+&nbsp;
+![Sinhala](https://img.shields.io/badge/Sinhala-Proficient-00d4ff?style=for-the-badge&labelColor=0b1929)
+&nbsp;
+![Tamil](https://img.shields.io/badge/Tamil-Proficient-00d4ff?style=for-the-badge&labelColor=0b1929)
 
 <br/>
 
@@ -266,5 +325,4 @@
 
 <br/>
 
-<!--━━━━━━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━━━━━-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e6ba8,50:0a1f3d,100:050d1f&height=140&section=footer&animation=fadeIn" width="100%"/>
