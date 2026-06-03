@@ -9,43 +9,34 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ ABOUT ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="3" cellpadding="0">
+<table width="100%" border="0" cellspacing="2" cellpadding="24" bgcolor="#0b1929">
 <tr>
-<td bgcolor="#0b1929" width="54%" valign="top" cellpadding="28">
+<td width="54%" valign="top" bgcolor="#0b1929">
 
-&nbsp;
+<h3>👋 &nbsp;Who Am I?</h3>
 
-### 👋 &nbsp;Who Am I?
+🔭 &nbsp;<strong>Fullstack Developer</strong> @ Tefrix Solutions <em>(Feb 2025–Present)</em><br/>
+🎓 &nbsp;<strong>BSc(Hons) CS &amp; Technology</strong> — Uva Wellassa University <em>(2022–2026)</em><br/>
+🌍 &nbsp;Based in <strong>Colombo, Sri Lanka</strong><br/>
+🛠️ &nbsp;Skilled in <strong>web &amp; mobile app development</strong> and <strong>3D SketchUp design</strong><br/>
+⚡ &nbsp;Building <strong>user-friendly products</strong> with intuitive interfaces<br/>
+🥋 &nbsp;<strong>Martial Artist</strong> — 🥇 Karate Champion, Bronze in Wushu Sanda<br/>
+💡 &nbsp;<strong>Let's connect and build something extraordinary!</strong><br/>
+🌐 &nbsp;<a href="https://sarathsk.vercel.app/">sarathsk.vercel.app</a>
 
-🔭 &nbsp;**Fullstack Developer** @ Tefrix Solutions *(Feb 2025–Present)*
-
-🎓 &nbsp;**BSc(Hons) CS & Technology** — Uva Wellassa University *(2022–2026)*
-
-🌍 &nbsp;Based in **Colombo, Sri Lanka**
-
-🛠️ &nbsp;Skilled in **web & mobile app development** and **3D SketchUp design**
-
-⚡ &nbsp;Building **user-friendly products** with intuitive interfaces
-
-🥋 &nbsp;**Martial Artist** — 🥇 Karate Champion, Bronze in Wushu Sanda
-
-💡 &nbsp;**Let's connect and build something extraordinary!**
-
-🌐 &nbsp;[sarathsk.vercel.app](https://sarathsk.vercel.app/)
-
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarathkumarpro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230e6ba8.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sarathsk.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksarathkumar.pro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarathkumargit)
 
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sarathkumargit&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-&nbsp;
-
 </td>
-<td bgcolor="#0b1929" width="46%" align="center" valign="middle" cellpadding="12">
+<td width="46%" align="center" valign="middle" bgcolor="#0b1929">
 
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="320" alt="Dev Animation"/>
 
@@ -56,38 +47,38 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" align="center" cellpadding="28">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929">
+<tr><td align="center" bgcolor="#0b1929">
 
-## ⚙️ &nbsp;Tech Stack
+<h2>⚙️ &nbsp;Tech Stack</h2>
 
 <br/>
 
-**💻 &nbsp;Languages**
+<strong>💻 &nbsp;Languages</strong><br/><br/>
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,php&theme=dark&perline=7)](https://skillicons.dev)
 
-<br/>
+<br/><br/>
 
-**🚀 &nbsp;Frameworks & Libraries**
+<strong>🚀 &nbsp;Frameworks &amp; Libraries</strong><br/><br/>
 
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,bootstrap&theme=dark&perline=7)](https://skillicons.dev)
 
-<br/>
+<br/><br/>
 
-**🗄️ &nbsp;Databases**
+<strong>🗄️ &nbsp;Databases</strong><br/><br/>
 
 [![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark&perline=7)](https://skillicons.dev)
 
-<br/>
+<br/><br/>
 
-**⚙️ &nbsp;Tools & DevOps**
+<strong>⚙️ &nbsp;Tools &amp; DevOps</strong><br/><br/>
 
-[![Skills](https://skillicons.dev/icons?i=docker,git,github,figma,pytorch,vscode,sketchup&theme=dark&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,git,github,figma,pytorch,vscode&theme=dark&perline=7)](https://skillicons.dev)
 
-<br/>
+<br/><br/>
 
-**✨ &nbsp;Also Skilled In**
+<strong>✨ &nbsp;Also Skilled In</strong><br/><br/>
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0b1929?style=for-the-badge&logo=openai&logoColor=a3e635)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-0b1929?style=for-the-badge&logo=github&logoColor=a3e635)
@@ -103,10 +94,10 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" align="center" cellpadding="24">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929">
+<tr><td align="center" bgcolor="#0b1929">
 
-## 📊 &nbsp;GitHub Stats
+<h2>📊 &nbsp;GitHub Stats</h2>
 
 <br/>
 
@@ -116,7 +107,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sarathkumargit&theme=tokyonight-duo&hide_border=true&background=0b1929&ring=a3e635&fire=0e6ba8&currStreakLabel=a3e635&sideLabels=90caf9&dates=4a6fa5&currStreakNum=ffffff&sideNums=ffffff&stroke=130a2a&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=sarathkumargit&theme=tokyonight-duo&hide_border=true&background=0b1929&ring=a3e635&fire=0e6ba8&currStreakLabel=a3e635&sideLabels=90caf9&dates=4a6fa5&currStreakNum=ffffff&sideNums=ffffff&stroke=0b1929&border_radius=12"/>
 
 <br/><br/>
 
@@ -130,10 +121,10 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ TROPHIES ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" align="center" cellpadding="18">
+<table width="100%" border="0" cellspacing="0" cellpadding="18" bgcolor="#0b1929">
+<tr><td align="center" bgcolor="#0b1929">
 
-## 🏆 &nbsp;Trophies
+<h2>🏆 &nbsp;Trophies</h2>
 
 <br/>
 
@@ -147,16 +138,13 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ EXPERIENCE ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" cellpadding="26">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929">
+<tr><td bgcolor="#0b1929">
 
-## 💼 &nbsp;Work Experience
-
-<br/>
+<h2>💼 &nbsp;Work Experience</h2>
 
 <details>
 <summary>🚀 &nbsp;<strong>Fullstack Developer — Tefrix Solutions</strong> &nbsp;|&nbsp; Feb 2025 – Present &nbsp;|&nbsp; Remote</summary>
-
 <br/>
 
 > ![React](https://img.shields.io/badge/React-0b1929?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-0b1929?style=flat-square&logo=typescript&logoColor=007ACC) ![Tailwind](https://img.shields.io/badge/Tailwind-0b1929?style=flat-square&logo=tailwind-css&logoColor=38B2AC) ![Node.js](https://img.shields.io/badge/Node.js-0b1929?style=flat-square&logo=nodedotjs&logoColor=43853D) ![MongoDB](https://img.shields.io/badge/MongoDB-0b1929?style=flat-square&logo=mongodb&logoColor=4EA94B)
@@ -170,7 +158,6 @@
 
 <details>
 <summary>📝 &nbsp;<strong>IRC LaTeX Documentation Team</strong> — Uva Wellassa University &nbsp;|&nbsp; 2025 – Present</summary>
-
 <br/>
 
 - 📄 &nbsp;Creating and maintaining high-quality technical and academic documents using LaTeX
@@ -179,7 +166,6 @@
 
 <details>
 <summary>📢 &nbsp;<strong>Marketing Coordinator</strong> — The Business School Kandy &nbsp;|&nbsp; Jan 2019 – Jan 2025 &nbsp;|&nbsp; Kandy</summary>
-
 <br/>
 
 - 👨‍🏫 &nbsp;Mentored students in tech skills and entrepreneurship via emerging technologies
@@ -196,12 +182,10 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ PROJECTS ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" cellpadding="26">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929">
+<tr><td bgcolor="#0b1929">
 
-## 🚀 &nbsp;Featured Projects
-
-<br/>
+<h2>🚀 &nbsp;Featured Projects</h2>
 
 <div align="center">
 
@@ -224,12 +208,10 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ ACHIEVEMENTS ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" cellpadding="26">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929">
+<tr><td bgcolor="#0b1929">
 
-## 🏅 &nbsp;Achievements
-
-<br/>
+<h2>🏅 &nbsp;Achievements</h2>
 
 <div align="center">
 
@@ -252,12 +234,10 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ EDUCATION ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" cellpadding="26">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929">
+<tr><td bgcolor="#0b1929">
 
-## 🎓 &nbsp;Education & Currently Learning
-
-<br/>
+<h2>🎓 &nbsp;Education &amp; Currently Learning</h2>
 
 <div align="center">
 
@@ -285,18 +265,18 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ LANGUAGES ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#0b1929" align="center" cellpadding="20">
+<table width="100%" border="0" cellspacing="0" cellpadding="16" bgcolor="#0b1929">
+<tr><td align="center" bgcolor="#0b1929">
 
-## 🌐 &nbsp;Languages
+<h2>🌐 &nbsp;Languages</h2>
 
 <br/>
 
-![English](https://img.shields.io/badge/English-Proficient-a3e635?style=for-the-badge&labelColor=130a2a)
+![English](https://img.shields.io/badge/English-Proficient-a3e635?style=for-the-badge&labelColor=0b1929)
 &nbsp;
-![Sinhala](https://img.shields.io/badge/Sinhala-Proficient-a3e635?style=for-the-badge&labelColor=130a2a)
+![Sinhala](https://img.shields.io/badge/Sinhala-Proficient-a3e635?style=for-the-badge&labelColor=0b1929)
 &nbsp;
-![Tamil](https://img.shields.io/badge/Tamil-Proficient-a3e635?style=for-the-badge&labelColor=130a2a)
+![Tamil](https://img.shields.io/badge/Tamil-Proficient-a3e635?style=for-the-badge&labelColor=0b1929)
 
 <br/>
 
