@@ -9,9 +9,9 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ ABOUT ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="2" cellpadding="24" bgcolor="#0a0a0a">
+<table width="100%" border="0" cellspacing="2" cellpadding="24" bgcolor="#64aaf5">
 <tr>
-<td width="54%" valign="top" bgcolor="#0a0a0a">
+<td width="54%" valign="top" bgcolor="#64aaf5">
 
 <h3><code>👾 &gt;_ whoami</code></h3>
 
@@ -36,7 +36,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sarathkumargit&color=00ff41&style=for-the-badge&label=VISITORS)
 
 </td>
-<td width="46%" align="center" valign="middle" bgcolor="#0a0a0a">
+<td width="46%" align="center" valign="middle" bgcolor="#64aaf5">
 
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="320" alt="Dev Animation"/>
 
