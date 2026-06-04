@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:003300&height=240&section=header&text=%3E_+Sarathkumar&fontSize=52&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=%5B+Innovator+in+Code+and+Creativity+%5D+%7C+%5B+Sri+Lanka+%5D&descAlignY=65&descSize=16&descColor=00b300" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:003300&height=240&section=header&text=%3E_+Sarathkumar&fontSize=52&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=%5B+BSc(Hons) in Computer Science and Technology +%5D+%7C+%5B+%5D&descAlignY=65&descSize=16&descColor=00b300" width="100%"/>
 
 <div align="center">
 
