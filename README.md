@@ -3,9 +3,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1200&height=90&lines=%3E_+SYSTEM+BOOTING...;%3E_+User%3A+Sarathkumar;%3E_+BSc(Hons)+Computer+Science+%26+Technology;%3E_+Uva+Wellassa+University+of+Sri+Lanka;%3E_+Full+Stack+Developer+%7C+AI+Explorer;%3E_+React+%7C+Node.js+%7C+Laravel+%7C+Django;%3E_+ACCESS+GRANTED+%5BREADY+TO+BUILD%5D+%F0%9F%9A%80)
+<div align="center">
 
-](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1100&height=80&lines=%3E_+Sarathkumar;%3E_+BSc(Hons)+Computer+Science+%26+Technology;%3E_+Uva+Wellassa+University+of+Sri+Lanka;%3E_+Full+Stack+Developer+%7C+Software+Engineer;%3E_+React+%7C+Node.js+%7C+Laravel+%7C+Django;%3E_+Building+Scalable+Web+%26+Mobile+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 </div>
 
