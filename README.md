@@ -9,9 +9,9 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ ABOUT ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="2" cellpadding="24" bgcolor="#0d294a">
+<table width="100%" border="0" cellspacing="2" cellpadding="24" bgcolor="#0b1929 ">
 <tr>
-<td width="54%" valign="top" bgcolor="#0d294a">
+<td width="54%" valign="top" bgcolor="#0b1929 ">
 
 <h3><code>👾 &gt;_ whoami</code></h3>
  
@@ -36,7 +36,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sarathkumargit&color=00ff41&style=for-the-badge&label=VISITORS)
 
 </td>
-<td width="46%" align="center" valign="middle" bgcolor="#0d294a">
+<td width="46%" align="center" valign="middle" bgcolor="#0b1929 ">
 
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="320" alt="Dev Animation"/>
 
@@ -47,8 +47,8 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0d294a">
-<tr><td align="center" bgcolor="#0d294a">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929 ">
+<tr><td align="center" bgcolor="#0b1929 ">
 
 <h2><code>⚙️ &gt;_ tech_stack --list</code></h2>
 
@@ -94,8 +94,8 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0d294a">
-<tr><td align="center" bgcolor="#0d294a">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929 ">
+<tr><td align="center" bgcolor="#0b1929 ">
 
 <h2><code>📊 &gt;_ git stats --global</code></h2>
 
@@ -121,8 +121,8 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ TROPHIES ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="18" bgcolor="#0d294a">
-<tr><td align="center" bgcolor="#0d294a">
+<table width="100%" border="0" cellspacing="0" cellpadding="18" bgcolor="#0b1929 ">
+<tr><td align="center" bgcolor="#0b1929 ">
 
 <h2><code>🏆 &gt;_ achievements --unlock</code></h2>
 
@@ -138,8 +138,8 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ EXPERIENCE ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0d294a">
-<tr><td bgcolor="#0d294a">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929 ">
+<tr><td bgcolor="#0b1929 ">
 
 <h2><code>💼 &gt;_ career --history</code></h2>
 
@@ -182,8 +182,8 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ PROJECTS ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0d294a">
-<tr><td bgcolor="#0d294a">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929 ">
+<tr><td bgcolor="#0b1929 ">
 
 <h2><code>🚀 &gt;_ projects --featured</code></h2>
 
@@ -208,8 +208,8 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ ACHIEVEMENTS ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0d294a">
-<tr><td bgcolor="#0d294a">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929 ">
+<tr><td bgcolor="#0b1929 ">
 
 <h2><code>🏅 &gt;_ sudo achievements --all</code></h2>
 
@@ -234,8 +234,8 @@
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ EDUCATION ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0d294a">
-<tr><td bgcolor="#0d294a">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" bgcolor="#0b1929 ">
+<tr><td bgcolor="#0b1929 ">
 
 <h2><code>🎓 &gt;_ education --status</code></h2>
 
@@ -267,8 +267,8 @@ $ currently_learning --verbose
 <br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━ LANGUAGES ━━━━━━━━━━━━━━━━━━━━━━━━-->
-<table width="100%" border="0" cellspacing="0" cellpadding="16" bgcolor="#0d294a">
-<tr><td align="center" bgcolor="#0d294a">
+<table width="100%" border="0" cellspacing="0" cellpadding="16" bgcolor="#0b1929 ">
+<tr><td align="center" bgcolor="#0b1929 ">
 
 <h2><code>🌐 &gt;_ locale --list</code></h2>
 
