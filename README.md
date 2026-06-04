@@ -1,7 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1f,40:0a1628,100:0e6ba8&height=240&section=header&text=%3E_+Sarathkumar&fontSize=52&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=BSc(Hons)+in+Computer+Science+and+Technology+%7C+Uva+Wellassa+University+of+Sri+Lanka&descAlignY=65&descSize=16&descColor=00b300" width="100%"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=850&lines=%3E_+Software+Engineer+Intern+%7C+Fullstack+Developer;%3E_+React+%2B+Node.js+%2B+Django+%2B+Python;%3E_+Web+%26+Mobile+App+Development;%3E_+3D+SketchUp+Designer+%7C+Martial+Artist+%F0%9F%A5%8B;%3E_+Building+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%3E_+Initializing+Connection...+%5BACCESS+GRANTED%5D)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=1200&height=90&lines=%3E_+SYSTEM+BOOTING...;%3E_+User%3A+Sarathkumar;%3E_+BSc(Hons)+Computer+Science+%26+Technology;%3E_+Uva+Wellassa+University+of+Sri+Lanka;%3E_+Full+Stack+Developer+%7C+AI+Explorer;%3E_+React+%7C+Node.js+%7C+Laravel+%7C+Django;%3E_+ACCESS+GRANTED+%5BREADY+TO+BUILD%5D+%F0%9F%9A%80)
+
+](https://git.io/typing-svg)
+
+</div>
 
 </div>
 
