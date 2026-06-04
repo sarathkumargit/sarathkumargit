@@ -45,7 +45,7 @@
 </td>
 <td width="46%" align="center" valign="middle" bgcolor="#0b1929 ">
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" alt="Dev Animation"/>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="420" height="600" alt="Dev Animation"/>
 
 </td>
 </tr>
