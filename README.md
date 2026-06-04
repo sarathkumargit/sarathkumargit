@@ -14,7 +14,7 @@
 <td width="54%" valign="top" bgcolor="#0d294a">
 
 <h3><code>👾 &gt;_ whoami</code></h3>
- bgcolor="#0d294a
+ 
 🔭 &nbsp;<strong>Fullstack Developer</strong> @ Tefrix Solutions <em>(Feb 2025–Present)</em><br/>
 🎓 &nbsp;<strong>BSc(Hons) CS &amp; Technology</strong> — Uva Wellassa University <em>(2022–2026)</em><br/>
 🌍 &nbsp;Location: <strong>Colombo, Sri Lanka</strong><br/>
